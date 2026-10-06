@@ -1,7 +1,7 @@
 ## Md Tawhid Chowdhury
 
 Lead Software Engineer in Berlin. 9+ years building .NET and Angular systems across fintech,
-enterprise SaaS and AI-driven platforms — most recently leading a team from architecture
+healthcare, enterprise SaaS and AI-driven platforms — most recently leading a team from architecture
 through delivery.
 
 These days most of my work is at the seam between application code and LLMs: fine-tuning,
